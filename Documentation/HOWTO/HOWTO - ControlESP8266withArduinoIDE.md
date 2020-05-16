@@ -18,5 +18,5 @@ The goal of this document is to quickly explain how to control an ESP8266 board 
 1. Go to the folder **Roomba > src > Libraries** and copy everything.
 2. Then, go to  **Documents > Arduino > libraries** (or whatever folder than contains your Arduino libraires on your computer) and paste everything. 
 3. Compile the **RombaESP01_CONFIGURE**.
-4. That's it
+4. That's it.
 
