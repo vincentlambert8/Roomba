@@ -4,7 +4,7 @@ The goal of this document is to quickly explain how to control an ESP8266 board 
 
 ### 1. Install ESP8266 Add-on in Arduino IDE
 
-1. In your Arduino IDE, go to **File **> **Preferences**
+1. In your Arduino IDE, go to **File ** > **Preferences**
 
 2. Enter **http://arduino.esp8266.com/stable/package_esp8266com_index.json** into the “Additional Boards Manager URLs” field as shown in the figure below. Then, click the “OK” button.
 3. Open the Boards Manager. Go to **Tools** > **Board** > **Boards Manager…**
